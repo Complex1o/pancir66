@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+parsed_output.txt
+clean_body.html
+style.css
+*.py
